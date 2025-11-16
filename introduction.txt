@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+Hello! My name is Orchere. I am learning GitHub and Git for managing my projects. I am excited to explore programming, version control, and collaboration using GitHub.
+
+This repository is my first step in learning GitHub and practicing basic repository management, commits, and file edits.
