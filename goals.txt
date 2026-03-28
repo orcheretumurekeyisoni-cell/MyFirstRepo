@@ -1,0 +1,7 @@
+My Personal and Academic Goals for Next Year
+
+1. Improve my proficiency in Git and GitHub workflow.
+2. Learn the basics of Linux and shell scripting.
+3. Complete at least two small programming projects.
+4. Participate in a coding or DevOps challenge.
+5. Improve time management and productivity skills.
